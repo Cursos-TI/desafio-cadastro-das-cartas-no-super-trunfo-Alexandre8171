@@ -10,7 +10,7 @@ char letra = 'A'; // representa um estado
     char estado [10] = "A01"; // código de cada estado
     char cidade [20] = "Rio de Janeiro"; // nome da cidade
     double população = 6211.42; //população
-    float área = 1255.3; //Área por KM2
+    float área = 1255.30; //Área por KM2
     float pib = 1.052; // Produto Interno Bruto
     int pontos = 58; //pontos turisticos
  
