@@ -27,9 +27,9 @@ int main (){
     float Área = 1521.00; //Área por KM2
     float Pib = 828.9; // Produto Interno Bruto
     int Pontos = 37; //pontos turisticos
-    printf("Carta 2:\nestado: %c\ncodigo: %s\nNome da Cidade: %s",Letra, Estado, Cidade); // imprime a carta, o estado, o codigo 
-      printf("\nPopulação: %.2f\nÁrea: %.2f KM2\n", População, Área); // imprime a população e Área
-        printf("PIB: %.2f Bilhoes de Reais\nNúmero de Pontos Turisticos: %d\n",Pib, Pontos); // imprime o PIB e pontos turisticos
+    printf("Carta 2:\nestado: %c\ncodigo: %s\nNome da Cidade: %s",Letra, Estado, Cidade); // Exibe a carta, o codigo e cidade 
+      printf("\nPopulação: %.2f\nÁrea: %.2f KM2\n", População, Área); // Exibe a população e Área
+        printf("PIB: %.2f Bilhoes de Reais\nNúmero de Pontos Turisticos: %d\n",Pib, Pontos); // Exibe o PIB e pontos turisticos
 
 
          return 0;
