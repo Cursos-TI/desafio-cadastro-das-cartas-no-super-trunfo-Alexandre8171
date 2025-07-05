@@ -15,7 +15,7 @@ char letra = 'A'; // representa um estado
     int pontos = 58; //pontos turisticos
  
     printf("Carta 1:\nestado: %c\ncodigo: %s\n",letra, estado); 
-      printf("Nome da Cidade: %s\nPopulação: %.2f\nÁrea: %2d KM2\n",cidade, população, área);
+      printf("Nome da Cidade: %s\nPopulação: %.2f\nÁrea: %.2f KM2\n",cidade, população, área);
          printf("PIB: %.3f Trilhões de Reais\nNúmero de Pontos Turisticos: %d\n",pib, pontos);
             return 0;
 }
